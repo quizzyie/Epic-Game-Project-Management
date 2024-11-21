@@ -102,6 +102,8 @@ Kiểm tra tính chính xác của từng chức năng nhỏ, chẳng hạn như
 - **Chức năng:**
   - Kiểm thử sự tương tác giữa frontend và backend.
   - Kiểm thử quá trình từ giỏ hàng đến thanh toán và lưu trữ đơn hàng.
+  - Test case, thuc hien test case, log bugs
+  - San pham du moi du tieu chi test tiep
 
 ### 3.3. Kiểm thử hiệu năng (Performance Testing)
 Đánh giá hiệu suất của hệ thống trong điều kiện tải nặng.
